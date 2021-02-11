@@ -1,0 +1,39 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    
+  }
+  
+h2 {
+    color: darkgreen;
+}
+
+  table {
+    border-collapse: collapse;
+    border: 2px solid rgb(200,200,200);
+    letter-spacing: 1px;
+    font-size: 0.8rem;
+    margin: auto;
+  }
+ 
+  #tag {
+      background-color: greenyellow;
+  }
+  
+  td, th {
+    border: 1px solid darkgreen;
+    padding: 10px 20px;
+  }
+  
+  th {
+    background-color: forestgreen;
+  }
+  
+  td {
+    text-align: center;
+    background-color: lightgreen;
+  }
+  
+  caption {
+    padding: 10px;
+  }
